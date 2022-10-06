@@ -30,11 +30,17 @@ a {
 }
 
 .a1 {
-
    background-color: rgb(152,150,240);
 }
 .a1:hover{
     background-color: rgb(184 195 226);
+}
+.kore-chat-window .messages {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: url(./logo.jpg);
 }
 
 
